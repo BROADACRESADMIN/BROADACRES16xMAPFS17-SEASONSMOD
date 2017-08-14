@@ -2,13 +2,11 @@
 -- DAYLIGHT DATA
 ----------------------------------------------------------------------------------------------------
 -- Purpose:  Daylight adjustments
--- Authors:  reallogger
---
--- Copyright (c) Realismus Modding, 2017
+-- Authors:  Willykeen
 --------------------------------------------------------------------------------------------------->
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<!-- Princeton, Missouri -->
+<!-- Sydney, New South Wales -->
 
 <daylight>
-    <latitude>40.4</latitude>
+    <latitude>-38.7</latitude>
 </daylight>

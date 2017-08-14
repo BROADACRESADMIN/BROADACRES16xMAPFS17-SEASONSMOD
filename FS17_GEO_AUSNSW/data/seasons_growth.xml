@@ -1,10 +1,8 @@
 <!--------------------------------------------------------------------------------------------------
 -- GROWTH DATA
 ----------------------------------------------------------------------------------------------------
--- Purpose:  Midwest growth data based on https://usda.mannlib.cornell.edu/usda/nass/planting/uph97.pdf
--- Authors:  theSeb
---
--- Copyright (c) Realismus Modding, 2017
+-- Purpose:  Manipulate default Seasons Growth Data
+-- Authors:  Willykeen
 --------------------------------------------------------------------------------------------------->
 
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
@@ -138,16 +136,16 @@
     </growthTransitions>
 
     <germination>
-        <fruit fruitName="barley" germinateTemp="5" />
-        <fruit fruitName="wheat" germinateTemp="5" />
-        <fruit fruitName="rape" germinateTemp="5" />
-        <fruit fruitName="maize" germinateTemp="10" />
+        <fruit fruitName="barley" germinateTemp="4" />
+        <fruit fruitName="wheat" germinateTemp="4" />
+        <fruit fruitName="rape" germinateTemp="4" />
+        <fruit fruitName="maize" germinateTemp="8" />
         <fruit fruitName="soybean" germinateTemp="10" />
-        <fruit fruitName="sunflower" germinateTemp="7" />
-        <fruit fruitName="potato" germinateTemp="5" />
-        <fruit fruitName="sugarBeet" germinateTemp="5" />
-        <fruit fruitName="grass" germinateTemp="3" />
-        <fruit fruitName="oilseedRadish" germinateTemp="7" />
-        <fruit fruitName="poplar" germinateTemp="5" />
+        <fruit fruitName="sunflower" germinateTemp="10" />
+        <fruit fruitName="potato" germinateTemp="4" />
+        <fruit fruitName="sugarBeet" germinateTemp="4" />
+        <fruit fruitName="grass" germinateTemp="2" />
+        <fruit fruitName="oilseedRadish" germinateTemp="5" />
+        <fruit fruitName="poplar" germinateTemp="6" />
     </germination>
 </growth>

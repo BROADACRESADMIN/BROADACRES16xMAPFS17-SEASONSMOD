@@ -1,7 +1,0 @@
-CREDITS
-===================
-
-## Translations
-
-French - Anonymous, Farmer1602
-German - Amadeo

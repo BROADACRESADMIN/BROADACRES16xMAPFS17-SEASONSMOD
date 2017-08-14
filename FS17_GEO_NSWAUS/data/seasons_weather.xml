@@ -1,0 +1,120 @@
+<!--------------------------------------------------------------------------------------------------
+-- WEATHER DATA
+----------------------------------------------------------------------------------------------------
+-- Purpose:  Weather data for U.S. Midwest (Princeton Missouri)
+-- Authors:  reallogger
+--
+-- Copyright (c) Realismus Modding, 2017
+--------------------------------------------------------------------------------------------------->
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<weather>
+    <startValues>
+        <soilTemp>7</soilTemp>
+        <highAirTemp>8</highAirTemp>
+        <snowDepth>0</snowDepth>
+    </startValues>
+
+    <!--------------------------------------------------------------------------------------------------
+    -- Temperature data is extracted from:
+    -- http://www.usclimatedata.com
+    --------------------------------------------------------------------------------------------------->
+    <temperature>
+        <p period="1">
+            <min value="8.0" />
+            <mode value="11.7" />
+            <max value="15.7" />
+        </p>
+        <p period="2">
+            <min value="15.0" />
+            <mode value="18.1" />
+            <max value="20.1" />
+        </p>
+        <p period="3">
+            <min value="21.6" />
+            <mode value="23.2" />
+            <max value="25.4" />
+        </p>
+        <p period="4">
+            <min value="25.2" />
+            <mode value="28.1" />
+            <max value="30.4" />
+        </p>
+        <p period="5">
+            <min value="27.4" />
+            <mode value="30.7" />
+            <max value="35.0" />
+        </p>
+        <p period="6">
+            <min value="27.6" />
+            <mode value="30.2" />
+            <max value="33.2" />
+        </p>
+        <p period="7">
+            <min value="23.9" />
+            <mode value="25.8" />
+            <max value="28.1" />
+        </p>
+        <p period="8">
+            <min value="17.4" />
+            <mode value="19.2" />
+            <max value="21.9" />
+        </p>
+        <p period="9">
+            <min value="9.4" />
+            <mode value="11.1" />
+            <max value="13.0" />
+        </p>
+        <p period="10">
+            <min value="2.3" />
+            <mode value="3.4" />
+            <max value="5.3" />
+        </p>
+        <p period="11">
+            <min value="0.1" />
+            <mode value="2.0" />
+            <max value="2.8" />
+        </p>
+        <p period="12">
+            <min value="1.8" />
+            <mode value="4.8" />
+            <max value="5.3" />
+        </p>
+    </temperature>
+    
+    <!--------------------------------------------------------------------------------------------------
+    -- Daily probability for rain and clouds taken from www.weatherspark.com
+    -- 
+    --------------------------------------------------------------------------------------------------->
+    
+    <rain>
+        <s season="0">
+            <mu value="1.8" />
+            <sigma value="0.15" />
+            <probRain value="0.27" />
+            <probClouds value="0.42" />
+            <probHail value="0.05" />
+        </s>
+        <s season="1">
+            <mu value="1.2" />
+            <sigma value="0.08" />
+            <probRain value="0.35" />
+            <probClouds value="0.40" />
+            <probHail value="0.15" />
+        </s>
+        <s season="2">
+            <mu value="1.1" />
+            <sigma value="0.2" />
+            <probRain value="0.27" />
+            <probClouds value="0.42" />
+            <probHail value="0.10" />
+        </s>
+        <s season="3">
+            <mu value="1.5" />
+            <sigma value="0.15" />
+            <probRain value="0.11" />
+            <probClouds value="0.54" />
+            <probHail value="0.01" />
+        </s>
+    </rain>
+</weather>

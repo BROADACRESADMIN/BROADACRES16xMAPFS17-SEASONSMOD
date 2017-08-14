@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <modDesc descVersion="37">
-    <author>Realismus Modding</author>
-    <contributors>Rahkiin, theSeb, reallogger</contributors>
+    <author>Willykeen</author>
+    <contributors>Spectrum69</contributors>
     <version>1.0.0.0</version>
 
     <title>
-        <en>Seasons GEO: U.S. Midwest</en>
-        <de>Seasons GEO: U.S. Midwest</de>
-        <fr>Seasons GEO: U.S. Midwest</fr>
+        <en>Seasons GEO: AUS NSW</en>
+        <de>Seasons GEO: AUS NSW</de>
+        <fr>Seasons GEO: AUS NSW</fr>
     </title>
 
    <description>
-        <en><![CDATA[Do you want to experience farming in the productive soils of the U.S. known as the Corn Belt?
-
-Enjoy the weather and growth of one of the most intensely farmed regions in the world. Note that sugarbeet does not grow in this part of the world.
-
-The latest version of the Seasons mod is required.]]></en>
-        <fr><![CDATA[Voulez-vous expérimenter l'agriculture dans les sols productifs des États-Unis, connus sous le nom de Corn Belt (Ceinture de Maïs)?
-
-Profitez de la météo et de l'expansion de l'une des régions les plus cultivées dans le monde. Notez que la betterave à sucre ne se développe pas dans cette partie du monde.
-
-La dernière version du mod Seasons est nécessaire.]]></fr>
-        <de><![CDATA[Möchtest Du die Landwirtschaft in den produktiven Böden der USA, die als Maisgürtel bekannt sind, erleben?
-
-Genieße das Wetter und das Wachstum in einer der am stärksten bewirtschafteten Regionen der Welt. Beachte, dass in diesem Teil der Welt keine Zuckerrüben wachsen.
-
-Es wird die neuste Version vom Seasons mod benötigt.]]></de>
+        <en><![CDATA[The latest version of the Seasons mod is required.]]></en>
+        <fr><![CDATA[La dernière version du mod Seasons est nécessaire.]]></fr>
+        <de><![CDATA[Es wird die neuste Version vom Seasons mod benötigt.]]></de>
     </description>
 
     <iconFilename>icon.dds</iconFilename>

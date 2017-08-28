@@ -129,16 +129,16 @@
     </growthTransitions>
 
     <germination>
-        <fruit fruitName="barley" germinateTemp="5" />
-        <fruit fruitName="wheat" germinateTemp="5" />
-        <fruit fruitName="rape" germinateTemp="5" />
-        <fruit fruitName="maize" germinateTemp="10" />
-        <fruit fruitName="soybean" germinateTemp="10" />
-        <fruit fruitName="sunflower" germinateTemp="7" />
-        <fruit fruitName="potato" germinateTemp="5" />
-        <fruit fruitName="sugarBeet" germinateTemp="5" />
-        <fruit fruitName="grass" germinateTemp="3" />
-        <fruit fruitName="oilseedRadish" germinateTemp="7" />
-        <fruit fruitName="poplar" germinateTemp="5" />
+        <fruit fruitName="barley" germinateTemp="6" />
+        <fruit fruitName="wheat" germinateTemp="6" />
+        <fruit fruitName="rape" germinateTemp="6" />
+        <fruit fruitName="maize" germinateTemp="11" />
+        <fruit fruitName="soybean" germinateTemp="11" />
+        <fruit fruitName="sunflower" germinateTemp="8" />
+        <fruit fruitName="potato" germinateTemp="6" />
+        <fruit fruitName="sugarBeet" germinateTemp="6" />
+        <fruit fruitName="grass" germinateTemp="4" />
+        <fruit fruitName="oilseedRadish" germinateTemp="8" />
+        <fruit fruitName="poplar" germinateTemp="6" />
     </germination>
 </growth>

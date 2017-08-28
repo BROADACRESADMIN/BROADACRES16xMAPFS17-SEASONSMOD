@@ -89,30 +89,30 @@
         <s season="0">
             <mu value="1.8" />
             <sigma value="0.15" />
-            <probRain value="0.27" />
-            <probClouds value="0.42" />
-            <probHail value="0.05" />
+            <probRain value="0.42" />
+            <probClouds value="0.56" />
+            <probHail value="0.00" />
         </s>
         <s season="1">
             <mu value="1.2" />
             <sigma value="0.08" />
-            <probRain value="0.35" />
-            <probClouds value="0.40" />
-            <probHail value="0.15" />
+            <probRain value="0.34" />
+            <probClouds value="0.23" />
+            <probHail value="0.00" />
         </s>
         <s season="2">
             <mu value="1.1" />
             <sigma value="0.2" />
-            <probRain value="0.27" />
-            <probClouds value="0.42" />
-            <probHail value="0.10" />
+            <probRain value="0.26" />
+            <probClouds value="0.35" />
+            <probHail value="0.00" />
         </s>
         <s season="3">
             <mu value="1.5" />
             <sigma value="0.15" />
-            <probRain value="0.11" />
-            <probClouds value="0.54" />
-            <probHail value="0.01" />
+            <probRain value="0.23" />
+            <probClouds value="0.56" />
+            <probHail value="0.00" />
         </s>
     </rain>
 </weather>
